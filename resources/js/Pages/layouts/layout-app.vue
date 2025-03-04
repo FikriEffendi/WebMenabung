@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="">
         <component-navbar />
         <div>
             <slot />
